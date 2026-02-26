@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(113, 173, 173);
+    background-color: rgb(220, 121, 190);
 }
 .form-box{
-    background-color: rgb(139, 207, 207 ,0.3);
+    background-color: rgba(219, 141, 219, 0.905);
     width: 500px;
     height: 500px;
     border: none;
@@ -10,7 +10,7 @@ body{
     text-align: center;
     border-radius: 25px;
     box-shadow: 0px 10px 25px rgba(83, 123, 123, 0.15);
-    color: black;
+    color: wheat;
     font-family:cursive;
     font-size: medium;
     padding: 50px;
@@ -28,7 +28,7 @@ body{
     text-align:left;
     padding: 10px;
     box-shadow: 0px 10px 25px rgba(83, 123, 123, 0.15);
-    background-color: rgba(121, 243, 243, 0.725);
+    background-color: rgba(216, 153, 216, 0.7);
     font-size: medium;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -42,8 +42,8 @@ body{
     font-size: medium;
     padding: 10px 0px;
     box-shadow: 0px 10px 25px rgba(83, 123, 123, 0.15);
-    background-color: rgba(28, 125, 125, 0.725);
+    background-color: rgba(201, 105, 201, 0.725);
 }
 .form-box p a{
-    color: rgba(8, 38, 38, 0.725);
+    color: rgb(160, 88, 160);
 }
