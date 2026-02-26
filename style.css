@@ -10,3 +10,6 @@ button{
     box-shadow: 0px 10px 25px rgba(83, 123, 123, 0.15);
     background-color: rgba(201, 105, 201, 0.725);
 }
+button a{
+    color:white;
+}
